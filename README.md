@@ -27,7 +27,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I Just completed  Udacity Fullstack Nanodegree **
+- 🔭 I Just completed  Udacity Fullstack Nanodegree 
 - 🌱 I’m currently learning **C, DevOps, Aws, JavaScript**
 - 👯 I’m looking to collaborate on **high impact startups, fintech and open source**
 <!-- - 🤔 I’m looking for help with ... -->
