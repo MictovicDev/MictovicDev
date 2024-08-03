@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Awa Emeka Michael</h1>      
-<h3 align="center">A passionate fullstack developer with proficiency in backend developmen</h3>
+<h3 align="center">A passionate fullstack developer with proficiency in backend development</h3>
 <div id="badges" align='center'>
    <a target='_blank' rel="noreferrer" href="https://www.linkedin.com/in/awa-michael-2059a3230/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -76,21 +76,6 @@ Here are some ideas to get you started:
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevXanderCode&show_icons=true&locale=en" alt="DevXanderCode" /></p>
-
-
-<p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevXanderCode" alt="DevXanderCode" /></p>
-<p>
-
-
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevXanderCode&theme=github" />
-</p>
-<p>
-<img align="center" src="https://github-stats-alpha.vercel.app/api?username=DevXanderCode&bc=ebebeb&ic=0E8AD9" alt="DevXanderCode" />
-</p>
-<!-- -->
-  
 
 
 
