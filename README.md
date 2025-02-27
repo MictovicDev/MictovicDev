@@ -31,7 +31,7 @@ I’m a software engineer with a focus on designing and building scalable backen
 ### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/emeka-michael-2059a3230/)  
-- [Twitter](https://twitter.com/Mictovic_)  
+- [Twitter](https://twitter.com/Mictovic)  
 
 ---
 
