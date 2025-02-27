@@ -11,7 +11,7 @@
 I’m a software engineer with a focus on designing and building scalable backend systems, robust architectures, and cloud-native solutions. I thrive on solving complex problems and optimizing performance at scale.
 
 - **Currently Learning**: Go for high-performance systems.  
-- **Specializing In**: Backend development, software architecture, cloud engineering.  
+- **Specializing In**: Backend development, software architecture, system designs, cloud engineering.  
 - **Ask Me About**: System design, microservices, cloud infrastructure, or scalability.  
 - **Random Fact**: I’ve optimized systems to handle millions of requests without breaking a sweat.  
 
