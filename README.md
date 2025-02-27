@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/MictovicDev/MictovicDev/raw/main/assets/header.gif" alt="Emeka Michael - Software Engineer" width="600"/>
-  <h1>Hi, I’m Ejike Sylva</h1>
+  <h1>Hi, I’m Emeka Michael Awa</h1>
   <p>Software Engineer | Backend Development | Software Architecture</p>
 </div>
 
